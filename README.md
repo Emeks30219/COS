@@ -13,8 +13,7 @@ A simple Python project that performs basic arithmetic operations, available as 
 pip install streamlit
 **Step 2** - Run the app:
 streamlit run calculator.py
-**Step 3** - Your browser will automatically open the calculator at:
-http://localhost:8501
+**Step 3** - Your browser will automatically open the calculator at your local host on your browser 
 ## Core Functions
 
 ```python
